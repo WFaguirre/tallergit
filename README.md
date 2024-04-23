@@ -1,0 +1,1 @@
+Este mensaje va a toda la comunidad intergalactica, el "Hola mundo" dejo de existir en cualquier lenguaje
